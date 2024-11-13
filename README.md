@@ -16,6 +16,38 @@ Developed an Excel sales dashboard for the online store, providing a comprehensi
 
 **-** Traget **Women ** customers age group (30-49 years) living in **Maharashtra, Karnatak and Uttar Pradesh** by showing ads/offers/coupons available on **Amazon, Flipkart and Myntra**.
 
+Vrinda Store Anual Report																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+																					
+![image](https://github.com/user-attachments/assets/c888af71-ba9b-4865-9787-75ca60bb72c1)
 
 
 
