@@ -1,2 +1,2 @@
-# Vrinda_Store-_Anual-_Data_Analysis-_Project
+# Vrinda_Store_Anual_Data_Analysis_Project
 Anual Store Data Analysis Project using excel
